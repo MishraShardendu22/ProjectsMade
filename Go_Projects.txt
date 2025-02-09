@@ -1,5 +1,9 @@
 Go Projects
 
+0. Blood Bank Management System
+   - GitHub: https://parshu-velocity-blood-bank.vercel.app/
+   - Live Deployment: https://github.com/ParshuVelocity/Blood-Bank-TeamParshu-Original
+
 1. WebScrapper News Website
    - GitHub: https://github.com/MishraShardendu22/WebScrapperNewsWebsite
    - Live Deployment: https://ws-golang-front.onrender.com/
