@@ -1,4 +1,12 @@
-Projects
+NEXT Projects
+
+1. ScrollHub
+   - GitHub: https://github.com/MishraShardendu22/Scroll-Hub
+   - Live Deployment: https://scroll-hub-shardendu-mishra.vercel.app/
+
+0. 5Chan
+   - GitHub: https://github.com/MishraShardendu22/5Chan
+   - Live Deployment: https://5-chan-shardendu-mishra.vercel.app/
 
 1. Secret Message Application
    - GitHub: https://github.com/MishraShardendu22/Secret-Message-Application
