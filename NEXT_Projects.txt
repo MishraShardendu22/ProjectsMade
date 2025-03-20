@@ -1,5 +1,9 @@
 NEXT Projects
 
+0. Project Management
+   - GitHub: https://github.com/MishraShardendu22/Project-Management
+   - Live Deployment: https://project-management-internhsip-shardendu-mishra.vercel.app/
+
 1. ScrollHub
    - GitHub: https://github.com/MishraShardendu22/Scroll-Hub
    - Live Deployment: https://scroll-hub-shardendu-mishra.vercel.app/
